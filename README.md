@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Izail Chamberlain 
+## Lab 4
+## [Submission date: 10/01/2024]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* N/A
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* N/A
