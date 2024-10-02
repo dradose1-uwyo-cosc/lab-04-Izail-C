@@ -3,7 +3,7 @@
 # Submission Date: 10/1/2024
 # Lab 03 
 # Lab Section: 11
-# Sources, people worked with, help given to: N/A
+# Sources, people worked with, help given to: Sam Clacker
 # Comments: N/A
 
 
